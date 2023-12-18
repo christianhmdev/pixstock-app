@@ -1,5 +1,10 @@
 <div align="center">
-  <h1>Stock Media Platform With HTML5-CSS3-JAVASCRIPT-TAILWIND CSS</h1>
+  <h1>Stock Media Platform With 
+    <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" alt="HTML5" height="20"/>
+    <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="CSS3" height="20"/>
+    <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" height="20"/>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="20"/>
+  </h1>
 </div>
 
 ## Contents 
@@ -24,6 +29,8 @@
   
  ```
  https://api.pexels.com/v1/
+ ```
+ ```
  https://api.pexels.com/videos/
  ```
 ## Technologies 
