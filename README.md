@@ -13,19 +13,15 @@
 - [Description](#description)
 - [Technologies](#technologies)
 - [Configuration](#configuration)
+- [Functionalities](#functionalities)
 - [Screenshots](#screenshots)
-  - [1. Home](#1-home)
-  - [2. Photos](#2-photos)
-  - [3. Videos](#3-videos)
-  - [4. Collections](#4-collections)
-  - [5. Favorites](#5-favorites)
-- [Image and Video Credits](#image-and-video-credits)
+- [Credits](#credits)
 - [Developer Information](#developer-information)
 
 ## Description 
 
-- Pixstock is a provider of photographs and archival material.
-- Web application that consumes the Pexels API:
+- This is a web app for photographs and videos, where the user can save the ones they want to favorites.
+- The following endpoints have been consumed:
   
  ```
  https://api.pexels.com/v1/
@@ -48,44 +44,33 @@ Copy and paste the following command in your terminal to clone this repository:
 ```
 git clone https://github.com/christianhmdev/pixstock-javascript-.git
 ```
+## Functionalities
+
+- Shows all photos and videos from the web application.
+- Shows all the photos contained in the web application.
+- Shows all the videos contained in the web application.
+- Shows the most outstanding collections of photographs and videos.
+- Show your favorite photos and videos.
+- Dark Mode and Light.
+- Responsive Design: The application is designed to be responsive, ensuring seamless functionality across different screen sizes and devices. Users can access the application from their computers, tablets, or mobile devices.
+  
 
 ## Screenshots 
 
-### 1. Home 
-
-Shows all photos and videos from the web application.
-
 ![PixStock Home](https://res.cloudinary.com/ddmcwbdtl/image/upload/v1702880824/pixstock-home.png)
-
-### 2. Photos 
-
-Shows all the photos contained in the web application.
 
 ![PixStock Photos](https://res.cloudinary.com/ddmcwbdtl/image/upload/v1702883249/pixstock-photos.png)
 
-### 3. Videos 
-
-Shows all the videos contained in the web application.
-
 ![PixStock Videos](https://res.cloudinary.com/ddmcwbdtl/image/upload/v1702883381/pixstock-videos.png)
-
-### 4. Collections 
-
-Shows the most outstanding collections of photographs and videos.
 
 ![PixStock Collections](https://res.cloudinary.com/ddmcwbdtl/image/upload/v1702883421/pixstock-collections.png)
 
-### 5. Favorites 
-
-Show your favorite photos and videos.
-
 ![PixStock Favorites](https://res.cloudinary.com/ddmcwbdtl/image/upload/v1702883524/pixstock-favorites.png)
 
-## Image and Video Credits
+## Credits
 
-- All images and videos used in this project are sourced from Pexels through their API.
-- It's important to give proper attribution when using media from external sources.
-- ![Pexels Logo](https://img.shields.io/badge/-Pexels-05A081?logo=pexels&logoColor=white)
+- All rights reserved for [pexels.com](https://pexels.com/)
+- Please ensure proper attribution when using media from external sources.
 
 ## Developer Information
 
